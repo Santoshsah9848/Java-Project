@@ -6,7 +6,7 @@ public class Fibonacei{
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int m=0, n=1, p=0;
-        for(int i=0; i<a; i++){
+        for(int i=0; i<a-1; i++){
             System.out.println(p);
             p = m+n;
             m=n;
