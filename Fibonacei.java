@@ -7,12 +7,11 @@ public class Fibonacei{
         int a = sc.nextInt();
         int m=0, n=1, p=0;
         for(int i=0; i<a-1; i++){
-            System.out.println(p);
+            System.out.println(m);
             p = m+n;
             m=n;
             n=p;
         }
-        System.out.println(p);
         sc.close();
     }
 }
