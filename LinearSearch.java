@@ -1,6 +1,5 @@
 program 02 : Linear Search implementation
 
-// Leaner search implementation
 import java.util.Scanner;
 
 public class LinearSearchExample {
