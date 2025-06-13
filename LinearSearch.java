@@ -1,4 +1,4 @@
-program 02 : Linear Search implementation
+// program 02 : Linear Search implementation
 
 import java.util.Scanner;
 
